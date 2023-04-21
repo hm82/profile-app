@@ -21,3 +21,4 @@ A simple Profile App based on Coursera's [Web Applications for Everybody](https:
 - HTML
 - JavaScript
 - jQuery
+
