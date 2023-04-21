@@ -14,6 +14,7 @@ A simple Profile App based on Coursera's [Web Applications for Everybody](https:
 - pdo.php
 - bootstrap.php
 
+## Prerequisites
 
 ## Built with
 - PHP
