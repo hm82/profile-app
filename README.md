@@ -1,10 +1,8 @@
-# Resume Registry with New Features
+# profile-app / Professional Profile Registry
 
-## Stack
-PHP
--   PDO
-JavaScript
-- jQuery
+A simple Profile App based on Coursera's [Web Applications for Everybody](https://www.coursera.org/specializations/web-applications) Specialization
+
+## Features
 
 ## Files
 - index.php (Master Page for the Application )
@@ -16,4 +14,10 @@ JavaScript
 - pdo.php
 - bootstrap.php
 
-## New Features
+
+## Built with
+- PHP
+- HTML
+- JavaScript
+- jQuery
+
